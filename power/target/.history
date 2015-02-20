@@ -1,0 +1,27 @@
+run 8
+clean
+run 8
+compile
+run 8
+reload
+run 8
+clean
+run 8
+compile
+clean
+compile
+run 8
+eval Array(1,2,3).map(n=>println("Number "+ n)) 
+< commands 
+test
+reload
+reload return
+reload plugins
+reload
+last
+last update
+last copile
+last compile
+show managed-classpath 
+show unmanaged-classpath 
+show sources

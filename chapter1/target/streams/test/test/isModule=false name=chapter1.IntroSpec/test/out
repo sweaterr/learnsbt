@@ -1,0 +1,16 @@
+[0m[[0minfo[0m] [0mIntroSpec[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0mThe phrase 'Never odd or even' should[0m
+[0m[[0minfo[0m] [0m[32m+[0m be a palindrome[0m
+[0m[[0minfo[0m] [0m [0m
+[0m[[0minfo[0m] [0mThe phrase 'Mr. Owl ate my metal worm' should[0m
+[0m[[0minfo[0m] [0m[32m+[0m be a palindrome[0m
+[0m[[0minfo[0m] [0m [0m
+[0m[[0minfo[0m] [0mThe date '20:02 02/20 2002' should[0m
+[0m[[0minfo[0m] [0m[32m+[0m be a palindrome[0m
+[0m[[0minfo[0m] [0m [0m
+[0m[[0minfo[0m] [0m [0m
+[0m[[0minfo[0m] [0mTotal for specification IntroSpec[0m
+[0m[[0minfo[0m] [0m[34mFinished in 13 ms[0m[0m
+[0m[[0minfo[0m] [0m[34m3 examples, 0 failure, 0 error[0m[0m
+[0m[[0minfo[0m] [0m[0m
